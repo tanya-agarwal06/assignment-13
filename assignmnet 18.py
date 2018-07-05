@@ -2,7 +2,7 @@ from tkinter import *
 
 # #ques 1:
 # a=Tk()
-# dic = {"Ishika Garg": 223, "Anushika Sharma": 354,"Madhav Ahuja": 856, "Nikhil Sharma": 778,}
+# dic = {"Abhay": 223, "aditya": 354,"Madhav": 856, "palvi mahajan": 778,}
 #
 # L3=Label(a,text=" ")
 # L3.grid(row=1,column=1)
